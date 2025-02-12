@@ -20,3 +20,6 @@ Implementation Guidelines:
 • Implement validation inside the onChange function.
 • Display error messages for invalid inputs.
 • Ensure that the form submits only when all validations are passed
+
+**Output**
+![image](https://github.com/user-attachments/assets/e73ab54f-ea5d-4694-8162-10fd3b480a54)
